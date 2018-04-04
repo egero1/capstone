@@ -1,0 +1,10 @@
+name: health_care_dashboard
+title:
+username:
+account: predict498-teamfour
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 280281
+bundleId: 1260421
+url: https://predict498-teamfour.shinyapps.io/health_care_dashboard/
+when: 1520566524.34322
